@@ -9,4 +9,4 @@ SpringFramework002 -> İnstantiating a container (java-based configuration) -> @
 
 SpringFramework003 -> bean overview.(@Configuration, @Autowired)
 
-SpringFramework004 -> İnstantiating a bean with Constructor or Static Factory method.
+SpringFramework004 -> 
